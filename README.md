@@ -156,5 +156,3 @@ All visuals are integrated into:
 
 📅 Completed: February 2026
 
-
-If you want, I can also make a **stronger portfolio-ready version** (more recruiter attractive, less internship vibe).
