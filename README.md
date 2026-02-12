@@ -149,7 +149,7 @@ All visuals are integrated into:
 **Team ID:** LTVIP2026TMIDS38740
 **Team Size:** 4
 
-* Team Leader – Nethibottu Abdul Sami
+* Team Leader – Nethibottu Abdul Sami.
 * Shaik Vali Basha
 * Devagudi Rama Hemanth
 * Shaik Mohammad Kaif
