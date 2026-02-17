@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Housing Market Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <header>
+        <h1>🏠 Housing Market Analysis Dashboard</h1>
+        <p>Business Insights from Cleaned Dataset</p>
+    </header>
+
+    <section class="stats-container">
+        <div class="card">
+            <h2>Total Properties</h2>
+            <p>{{ total_properties }}</p>
+        </div>
+
+        <div class="card">
+            <h2>Average Price</h2>
+            <p>${{ avg_price }}</p>
+        </div>
+
+        <div class="card">
+            <h2>Highest Price</h2>
+            <p>${{ max_price }}</p>
+        </div>
+
+        <div class="card">
+            <h2>Lowest Price</h2>
+            <p>${{ min_price }}</p>
+        </div>
+    </section>
+
+    <section class="business-questions">
+        <h2>Business Questions</h2>
+        <ul>
+            <li>Does renovation increase property value?</li>
+            <li>How does house age affect pricing?</li>
+            <li>Which feature most influences sale price?</li>
+            <li>What is the distribution across price categories?</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Housing Data Analytics Project</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
