@@ -159,7 +159,7 @@ This makes the project **easy to validate, demonstrate, and grade**.
 [https://public.tableau.com/app/profile/abdul.sami6009/viz/HousingStoryDashboard/Story1](https://public.tableau.com/app/profile/abdul.sami6009/viz/HousingStoryDashboard/Story1)
 
 **Demo Video:**
-*(Video link here soon!)*
+https://drive.google.com/file/d/1DUumde7Om3fJ-45GDFmB6vXIXMSGTIhu/view?usp=drive_link
 
 ---
 
